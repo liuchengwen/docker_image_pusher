@@ -1,3 +1,4 @@
-labring/kubernetes-docker:v1.25.0
-labring/helm:v3.8.2
-labring/calico:v3.24.1
+aliplne
+kasmweb/nginx:1.25.3
+python:alpine3.19
+
