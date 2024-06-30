@@ -1,2 +1,1 @@
-phpmyadmin:latest
-erikdubbelboer/phpredisadmin:1.17
+eipwork/nfs-subdir-external-provisioner:v4.0.2
