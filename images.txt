@@ -1,5 +1,4 @@
 nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 questdb/questdb:6.0.4
 eipwork/kuboard-agent:v3
 eipwork/etcd-host:3.4.16-1
