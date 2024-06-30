@@ -1,1 +1,2 @@
-bitnami/kafka:3.4.0
+phpmyadmin:latest
+erikdubbelboer/phpredisadmin:1.17
