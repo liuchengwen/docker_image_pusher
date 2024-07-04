@@ -1,1 +1,1 @@
-eipwork/nfs-subdir-external-provisioner:v4.0.2
+xuxueli/xxl-job-admin:2.4.0
