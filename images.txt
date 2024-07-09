@@ -1,1 +1,1 @@
-kafka-ui:latest
+provectuslabs/kafka-ui:latest
