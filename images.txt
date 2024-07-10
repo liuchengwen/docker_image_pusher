@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui:master
+docker.io/calico/apiserver:v3.24.1
