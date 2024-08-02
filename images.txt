@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.24.1
+rocker/rstudio:4.4.1
