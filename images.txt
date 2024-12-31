@@ -1,1 +1,1 @@
-registry.example.com/kuboard/kuboard-agent:v1.0.0
+nextcloud:19
